@@ -1,0 +1,17 @@
+{
+  "name": "dojo-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.4.0",
+    "mocha": "^6.2.0"
+  }
+}
