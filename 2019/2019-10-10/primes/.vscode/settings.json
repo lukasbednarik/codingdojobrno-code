@@ -1,0 +1,4 @@
+{
+    "mocha.files.glob": "src/*.spec.js",
+    "mocha.nycPath": "node_modules/.bin/nyc"
+}
