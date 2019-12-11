@@ -1,0 +1,21 @@
+{
+    "mocha.files.glob": "./src/*.spec.{ts,tsx}",
+    "mocha.nycPath": "node_modules/.bin/nyc",
+    "mocha.coverage": {
+        "enable": false
+    },
+    "mocha.runTestsOnSave": "false",
+    "mocha.sideBarOptions": {
+        "lens": false,
+        "decoration": true,
+        "autoUpdateTime": 2000,
+        "showDebugTestStatus": true
+    },
+    "mocha.requires": [
+        "ts-node/register"
+    ],
+    //"mocha.logVerbose": true
+
+    // Run all tests: Ctrl+K + R
+    // Refresh explorer: Ctrl+K + N
+}
